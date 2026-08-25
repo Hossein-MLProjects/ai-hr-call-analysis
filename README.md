@@ -123,8 +123,8 @@ Any sample artifacts included in the public version should be treated as sanitiz
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hossein-MLProjects/Highlight-AI-Challenge-.git
-cd Highlight-AI-Challenge-
+git clone https://github.com/Hossein-MLProjects/ai-hr-call-analysis.git
+cd ai-hr-call-analysis
 ```
 
 ### 2. Create a virtual environment
